@@ -1,0 +1,39 @@
+observations
+
+01....starting me grant location page(ye visible hoga when ur cordinates is not availabe to the browser local storage)
+
+h1 weather app
+2 buttons/tabs your weather search weather
+
+1 img/svg of location
+h3 grant location access 
+paragraph allow access to get weather information
+button grant acess 
+
+
+//when we allow the location access then the your weather screen becomes visible
+
+
+02..YOUR WEATHER SCREEN
+
+loaction name (paragraph tag) country flag img
+cloud type
+cloud img
+
+temperature
+
+3 divs (img+p+p)
+1 contains windspeed 
+1 humidity
+1 clouds
+
+03..SEARCH WEATHER SCREEN
+
+1 input tag search bar and search button only extra
+
+same ui as your wether bus details changes according to search
+if seach is invalid
+1 img and text show krega
+
+
+04 LOADING SCREEN
